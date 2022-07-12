@@ -4,3 +4,7 @@ print("HELLO WORLD!")
 
 x = 2 + 2
 print(x)
+
+if x>3: 
+    print("Too much!")
+    
